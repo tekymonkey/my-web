@@ -76,7 +76,7 @@ body {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 .nikel {
-  background: transparent url("./assets/pablo.jpg") left top repeat;
+  background-color: red;
 }
 .pablo {
   position: absolute;
@@ -94,6 +94,9 @@ body {
 }
 strong {
   color: var(--main-text-color) !important;
+}
+img + img {
+  margin-top: 5rem;
 }
 .nav {
   display: flex;
@@ -183,6 +186,10 @@ strong {
   min-height: 615px;
   width: 100%;
 }
+.custom-list {
+  margin-top: 0;
+  margin-bottom: 0;
+}
 .warn {
   padding: 8px;
   background: var(--main-bg-warn);
@@ -194,13 +201,14 @@ strong {
 }
 .hero-image {
   padding: 5rem 0;
+  &.carousel {
+    margin-right: -1.5rem;
+    margin-left: -1.5rem;
+  }
 }
 .soon {
   display: flex;
   flex-flow: row nowrap;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: 6rem;
   span {
     padding: 8px;
     background: var(--main-bg-warn);
@@ -245,7 +253,7 @@ $title-color: var(--main-text-color);
 $subtitle-color: var(--main-text-color);
 $title-line-height: 1.4;
 $footer-background-color: transparent;
-$footer-padding: 3rem 1.5rem 12rem;
+$footer-padding: 3rem 1.5rem 16rem;
 @import "~bulma/bulma.sass";
 
 // RESPONSIVE

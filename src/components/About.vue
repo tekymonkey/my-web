@@ -19,10 +19,10 @@
         </div>
         <div class="column is-4">
           <p>
-            I weave together strong design aesthetics with technical know-how.
-            I partner with UX Researchers and UX Designers to define and deliver new features,
-            translate concepts into living prototypes, and iterate on interactions,
-            animations, and details to deliver the perfect experience.
+            I weave together <strong>strong design aesthetics with technical know-how</strong>.
+            I partner with UX Researchers and UX Designers to <strong>define and deliver new features</strong>,
+            translate concepts into living <strong>prototypes</strong>, and iterate on interactions,
+            animations, and details to deliver the <strong>perfect experience</strong>.
           </p>
           <p>
             Currently interested and working with

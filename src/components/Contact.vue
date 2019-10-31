@@ -2,11 +2,8 @@
   <div>
     <footer class="footer">
       <div class="content has-text-centered">
-        <div class="soon">
-          <span>More examples, projects and cases studies to be added soon.</span>
-        </div>
         <div class="columns content is-large">
-          <div class="column is-6 is-offset-3">
+          <div class="column is-8 is-offset-2">
             <span class="display">Get in touch</span>
             <p>
               Did you like it?

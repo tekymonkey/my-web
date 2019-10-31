@@ -7,7 +7,6 @@
     <Hero />
     <About />
     <Work />
-    <Carousel />
     <Contact />
   </article>
 </template>
@@ -18,7 +17,6 @@ import Menu from '@/components/Menu.vue';
 import Hero from '@/components/Hero.vue';
 import About from '@/components/About.vue';
 import Work from '@/components/Work.vue';
-import Carousel from '@/components/Carousel.vue';
 import Contact from '@/components/Contact.vue';
 
 export default {
@@ -28,7 +26,6 @@ export default {
     Hero,
     About,
     Work,
-    Carousel,
     Contact,
   },
   methods: {

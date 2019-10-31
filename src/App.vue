@@ -282,6 +282,11 @@ $footer-padding: 3rem 1.5rem 16rem;
     padding: 1rem 1.5rem;
   }
 }
+.soon {
+    @include until($desktop) {
+      padding-top: 5rem;
+  }
+}
 .is-home {
   @include until($desktop) {
     margin-left: -12px;
@@ -292,7 +297,7 @@ $footer-padding: 3rem 1.5rem 16rem;
     font-size: 3rem;
   }
 }
-.hc {
+.carousel {
   @include until($desktop) {
     display: none;
   }

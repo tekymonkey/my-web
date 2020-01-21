@@ -3,7 +3,7 @@
     <div class="container">
       <div class="columns content is-large">
         <div class="column is-6 is-offset-2">
-          <h1 class="title">Design technologist focused on Product Design and Frontend Dev.</h1>
+          <h1 class="title">Design technologist focused on Product and Frontend Design.</h1>
         </div>
       </div>
       <div class="columns content is-large">
